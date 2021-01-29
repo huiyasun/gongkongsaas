@@ -1,18 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="309px" height="68px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter x="1261px" y="382px" width="309px" height="68px" filterUnits="userSpaceOnUse" id="filter1911">
-      <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="3" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget1912">
-      <path d="M 0 44.4705882352941  L 0 3.29411764705882  C 0 1.44941176470587  0.814205607476631 0  1.85046728971963 0  L 295.14953271028 0  C 296.185794392523 0  297 1.44941176470587  297 3.29411764705882  L 297 44.4705882352941  C 297 46.3152941176471  296.185794392523 47.7647058823529  295.14953271028 47  L 147.982309746327 47  L 142.034379172231 55.2941176470617  L 137.187917222963 47  L 1.85046728971963 47  C 0.814205607476631 47.7647058823529  0 46.3152941176471  0 44.4705882352941  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" fill-opacity="0.996078431372549" transform="matrix(1 0 0 1 1267 387 )" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -1261 -382 )">
-    <use xlink:href="#widget1912" filter="url(#filter1911)" />
-    <use xlink:href="#widget1912" />
-  </g>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="45 322  12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 45.5 324  A 1.5 1.5 0 0 1 47 322.5 L 55 322.5  A 1.5 1.5 0 0 1 56.5 324 L 56.5 332  A 1.5 1.5 0 0 1 55 333.5 L 47 333.5  A 1.5 1.5 0 0 1 45.5 332 L 45.5 324  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  <path d="M 45.5 324  A 1.5 1.5 0 0 1 47 322.5 L 55 322.5  A 1.5 1.5 0 0 1 56.5 324 L 56.5 332  A 1.5 1.5 0 0 1 55 333.5 L 47 333.5  A 1.5 1.5 0 0 1 45.5 332 L 45.5 324  Z " stroke-width="1" stroke="#d2d2d2" fill="none" />
 </svg>
