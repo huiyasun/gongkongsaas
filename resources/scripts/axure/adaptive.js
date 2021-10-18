@@ -612,7 +612,7 @@
             $container.scrollTop(0);
         }
         var nS = $container.getNiceScroll();
-        var emulateTouch = nS.length > 0 && ns[0].opt.emulateTouch;
+        var emulateTouch = nS.length > 0 && nS[0].opt.emulateTouch;
         nS.remove();
         //clean up nicescroll css
         if (IE) $container.css({ '-ms-overflow-y': '', 'overflow-y': '', '-ms-overflow-style': '', '-ms-touch-action': '' });
